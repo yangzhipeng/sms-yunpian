@@ -1,0 +1,21 @@
+{
+    "name": "young/sms-yunpian",
+    "description": "This is a package for send sms!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Halo Young",
+            "email": "halo_young@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YunPian\\": "yunpian-sdk-php/lib/"
+        }
+    }
+}
