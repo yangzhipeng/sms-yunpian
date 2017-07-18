@@ -13,6 +13,9 @@
     "require": {
         "php": ">=5.3.0"
     },
+    "require-dev":{
+        "haloyoung/sms-yunpian":"dev-master"
+    },
     "autoload": {
         "psr-4": {
             "YunPian\\": "yunpian-sdk-php/lib/"
