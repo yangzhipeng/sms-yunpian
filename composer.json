@@ -1,5 +1,5 @@
 {
-    "name": "young/sms-yunpian",
+    "name": "haloyoung/sms-yunpian",
     "description": "This is a package for send sms!",
     "type": "library",
     "license": "MIT",
